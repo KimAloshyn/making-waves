@@ -1,0 +1,7 @@
+C:\Users\NKDG78\Desktop\MakingWaves\making-waves\PrintDatesRangeV2.0\PrintDatesRangeV2.0\bin\Debug\PrintDatesRangeV2.0.exe.config
+C:\Users\NKDG78\Desktop\MakingWaves\making-waves\PrintDatesRangeV2.0\PrintDatesRangeV2.0\bin\Debug\PrintDatesRangeV2.0.exe
+C:\Users\NKDG78\Desktop\MakingWaves\making-waves\PrintDatesRangeV2.0\PrintDatesRangeV2.0\bin\Debug\PrintDatesRangeV2.0.pdb
+C:\Users\NKDG78\Desktop\MakingWaves\making-waves\PrintDatesRangeV2.0\PrintDatesRangeV2.0\obj\Debug\PrintDatesRangeV2.0.csprojAssemblyReference.cache
+C:\Users\NKDG78\Desktop\MakingWaves\making-waves\PrintDatesRangeV2.0\PrintDatesRangeV2.0\obj\Debug\PrintDatesRangeV2.0.csproj.CoreCompileInputs.cache
+C:\Users\NKDG78\Desktop\MakingWaves\making-waves\PrintDatesRangeV2.0\PrintDatesRangeV2.0\obj\Debug\PrintDatesRangeV2.0.exe
+C:\Users\NKDG78\Desktop\MakingWaves\making-waves\PrintDatesRangeV2.0\PrintDatesRangeV2.0\obj\Debug\PrintDatesRangeV2.0.pdb
