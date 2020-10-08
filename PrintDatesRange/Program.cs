@@ -216,7 +216,7 @@ namespace PrintDatesRange
             if (args.Length != 2)
             {
                 Console.WriteLine("Input is invalid. You need to provide two arguments");
-                Environment.Exit(0);
+                Environment.Exit(1);
             }
 
             Date firstDate = null;
@@ -231,7 +231,7 @@ namespace PrintDatesRange
             catch (WrongDateInputException ex)
             {
                 Console.WriteLine(ex.Message);
-                Environment.Exit(0);
+                Environment.Exit(1);
             }
 
             /*In this place we are checking if year, month and day are the same. Later it affects
